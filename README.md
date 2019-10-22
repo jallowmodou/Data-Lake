@@ -1,2 +1,2 @@
-# Data-Storage-
-Data for Exploratory Analysis and Visualization 
+# Data-Lake-
+Data Lake for Exploratory Analysis and Visualization 
